@@ -1,0 +1,92 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="5" />
+      <entry action="$Delete" count="15" />
+      <entry action="$Paste" count="115" />
+      <entry action="$Redo" count="1" />
+      <entry action="$Undo" count="998" />
+      <entry action="About" count="1" />
+      <entry action="Add method body" count="2" />
+      <entry action="Android.RunAndroidSdkManager" count="1" />
+      <entry action="ChooseDebugConfiguration" count="1" />
+      <entry action="CleanGradleProject" count="1" />
+      <entry action="CloseProject" count="42" />
+      <entry action="CodeCompletion" count="397" />
+      <entry action="CopyElement" count="2" />
+      <entry action="Create constructor matching super" count="2" />
+      <entry action="Create method from usage" count="1" />
+      <entry action="Debug" count="1" />
+      <entry action="DialogOkAction Intro" count="44" />
+      <entry action="EditorBackSpace" count="9987" />
+      <entry action="EditorChooseLookupItem" count="2883" />
+      <entry action="EditorCopy" count="398" />
+      <entry action="EditorCut" count="186" />
+      <entry action="EditorDelete" count="3321" />
+      <entry action="EditorDeleteLine" count="28" />
+      <entry action="EditorDown" count="12330" />
+      <entry action="EditorDownWithSelection" count="244" />
+      <entry action="EditorDuplicate" count="4" />
+      <entry action="EditorEnter" count="2604" />
+      <entry action="EditorEscape" count="1" />
+      <entry action="EditorIndentSelection" count="5" />
+      <entry action="EditorLeft" count="13909" />
+      <entry action="EditorLeftWithSelection" count="1690" />
+      <entry action="EditorLineEnd" count="9" />
+      <entry action="EditorLineStart" count="6" />
+      <entry action="EditorPaste" count="719" />
+      <entry action="EditorRight" count="16650" />
+      <entry action="EditorRightWithSelection" count="2692" />
+      <entry action="EditorSplitLine" count="1" />
+      <entry action="EditorStartNewLine" count="3" />
+      <entry action="EditorTab" count="236" />
+      <entry action="EditorToggleInsertState" count="18" />
+      <entry action="EditorUp" count="9935" />
+      <entry action="EditorUpWithSelection" count="233" />
+      <entry action="FindPrevious" count="1" />
+      <entry action="Fix return type" count="1" />
+      <entry action="Generate" count="2" />
+      <entry action="Git.Rebase" count="1" />
+      <entry action="GotoDeclaration" count="4" />
+      <entry action="GotoLine" count="2" />
+      <entry action="GotoPrevElementUnderCaretUsage" count="1" />
+      <entry action="GotoTypeDeclaration" count="2" />
+      <entry action="HideAllWindows" count="3" />
+      <entry action="Implement methods" count="3" />
+      <entry action="ImplementMethods" count="1" />
+      <entry action="InsertLiveTemplate" count="1" />
+      <entry action="MakeGradleProject" count="60" />
+      <entry action="NewClass" count="16" />
+      <entry action="NewProject" count="14" />
+      <entry action="NextTemplateVariable" count="5" />
+      <entry action="OpenFile" count="54" />
+      <entry action="OverrideMethods" count="5" />
+      <entry action="ParameterInfo" count="1" />
+      <entry action="Progress Paused" count="3" />
+      <entry action="Progress Resumed" count="4" />
+      <entry action="RecentFiles" count="1" />
+      <entry action="Refactorings.QuickListPopupAction" count="1" />
+      <entry action="ReformatCode" count="1" />
+      <entry action="RenameElement" count="7" />
+      <entry action="Replace" count="5" />
+      <entry action="Run" count="246" />
+      <entry action="SaveAll" count="565" />
+      <entry action="SearchEverywhere" count="4" />
+      <entry action="ShowSettings" count="3" />
+      <entry action="Stop" count="10" />
+      <entry action="Switcher" count="438" />
+      <entry action="ToggleLineBreakpoint" count="2" />
+      <entry action="Unimplement Interface/Class" count="1" />
+      <entry action="WelcomeScreen.RemoveSelected" count="2" />
+      <entry action="template.create.ActivityBasic Activity" count="3" />
+      <entry action="template.create.ActivityEmpty Activity" count="27" />
+      <entry action="template.create.ActivityLogin Activity" count="1" />
+      <entry action="template.create.XMLLayout XML File" count="1" />
+    </counts>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1536276281846" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="refactoring.moveTopLevel" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="6" last-shown="0" last-used="1539150438363" shown-count="0" />
+    <feature id="refactoring.pushDown" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <fea
